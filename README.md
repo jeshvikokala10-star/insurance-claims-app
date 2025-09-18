@@ -8,16 +8,6 @@ It is fully Dockerized so you can run it easily.
 
 <img width="1057" height="512" alt="image" src="https://github.com/user-attachments/assets/c657aeed-ccbd-4d24-861e-231d6f1f3c7a" />
 
-insurance-claims-app/
-│── app.py              # Main Flask backend
-│── requirements.txt    # Dependencies (Flask, gunicorn)
-│── Dockerfile          # Docker instructions
-│── templates/
-│    └── claim_form.html
-│── static/
-│    └── style.css
-
-
 💻 2. Create the Project Folders
 
 Open Command Prompt (Windows) or Terminal (Linux/Mac):
